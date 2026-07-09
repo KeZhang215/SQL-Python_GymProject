@@ -1,0 +1,7 @@
+contract_type,group_participation,members_cnt,churned,churn_rate,churn_percentage_change
+month-to-month,no_group,1449,688,0.475,NULL
+month-to-month,with_group,758,246,0.325,31.58%
+semi-annualy,no_group,465,73,0.157,51.69%
+semi-annualy,with_group,368,31,0.084,46.50%
+annually,no_group,437,15,0.034,59.52%
+annually,with_group,523,8,0.015,55.88%

@@ -1,0 +1,9 @@
+age_band,contract_type,members,churn_rate,pct_of_base
+18-25,month-to-month,367,0.782,9%
+26-30,month-to-month,1155,0.464,29%
+18-25,longer_term,169,0.266,4%
+31-35,month-to-month,645,0.171,16%
+26-30,longer_term,895,0.080,22%
+36+,month-to-month,40,0.025,1%
+31-35,longer_term,678,0.015,17%
+36+,longer_term,51,0.000,1%

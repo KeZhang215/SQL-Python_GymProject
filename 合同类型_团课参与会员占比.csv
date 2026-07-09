@@ -1,0 +1,5 @@
+contract_type,group_participation,members,churn_rate,pct_of_base
+month-to-month,no_group,1449,0.475,36%
+month-to-month,attends_group,758,0.325,19%
+longer_term,no_group,902,0.098,23%
+longer_term,attends_group,891,0.044,22%

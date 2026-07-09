@@ -1,0 +1,5 @@
+tenure_cohort,members,avg_age_cohort,churn_rate_cohort
+1_month<,487,27.57,0.828
+1-3month,1943,29.02,0.320
+4-6month,876,29.84,0.040
+7month+,694,29.95,0.003
