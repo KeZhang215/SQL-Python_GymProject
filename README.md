@@ -2,7 +2,7 @@
 
 End-to-end churn analysis of a fitness-club membership base, built as a four-layer analytical pipeline — **Descriptive → Diagnostic → Predictive → Decision** — using MySQL for SQL analysis and Python for modeling.
 
-> **Data note:** This project uses a public benchmark dataset (Yandex Practicum "Model Fitness"), a curated teaching dataset of 4,000 members. It is used to demonstrate an end-to-end analytical methodology, **not** to claim real-world findings. The near-perfect model performance (ROC-AUC ≈ 0.97) reflects the curated nature of the data; real-world churn models typically reach 0.75–0.85.
+> **Data note:** This project uses a public benchmark dataset (Adrian Vinueza "Gym customers features and churn"), a curated teaching dataset of 4,000 members. It is used to demonstrate an end-to-end analytical methodology, **not** to claim real-world findings. The near-perfect model performance (ROC-AUC ≈ 0.97) reflects the curated nature of the data; real-world churn models typically reach 0.75–0.85.
 
 ---
 
@@ -89,4 +89,5 @@ Full findings and recommendations: [`report/Gym_Churn_Analysis_Report.md`](repor
 2. Run the scripts in `sql/` to reproduce the descriptive and diagnostic outputs.
 3. Open `notebooks/Gym_SQL.ipynb` (Google Colab or Jupyter) and run all cells for EDA, the logistic regression, and threshold tuning.
 
-*Dataset source: Yandex Practicum "Model Fitness" gym churn dataset (publicly redistributed on Kaggle).*
+*Dataset source: Adrian Vinueza "Gym customers features and churn" dataset (publicly redistributed on Kaggle).
+ https://www.kaggle.com/datasets/adrianvinueza/gym-customers-features-and-churn/data*
