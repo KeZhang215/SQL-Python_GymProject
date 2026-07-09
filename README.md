@@ -81,13 +81,6 @@ Identify the behavioral and contractual drivers of member churn (overall churn r
 
 Full findings and recommendations: [`Gym_Churn_Analysis_Report.md`](Gym_Churn_Analysis_Report.md)
 
----
-
-## How to Reproduce
-
-1. Load `data/gym_churn_us.csv` into a MySQL table named `gym_churn_us`.
-2. Run the scripts in `sql/` to reproduce the descriptive and diagnostic outputs.
-3. Open `notebooks/Gym_SQL.ipynb` (Google Colab or Jupyter) and run all cells for EDA, the logistic regression, and threshold tuning.
 
 *Dataset source: Adrian Vinueza "Gym customers features and churn" dataset (publicly redistributed on Kaggle).
  https://www.kaggle.com/datasets/adrianvinueza/gym-customers-features-and-churn/data*
