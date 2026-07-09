@@ -79,7 +79,7 @@ Identify the behavioral and contractual drivers of member churn (overall churn r
 - **Contract length** and **recent class engagement** are the strongest levers; **demographics barely matter.**
 - The **26–30 month-to-month** segment (29% of base, 46.4% churn) is the single largest convertible opportunity.
 
-Full findings and recommendations: [`report/Gym_Churn_Analysis_Report.md`](report/Gym_Churn_Analysis_Report.md)
+Full findings and recommendations: [`Gym_Churn_Analysis_Report.md`](Gym_Churn_Analysis_Report.md)
 
 ---
 
